@@ -1,4 +1,4 @@
-package geometry
+package coordinate
 
 import (
 	"math"
